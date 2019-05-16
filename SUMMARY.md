@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Intro](README.md)
 * [Learn more](learn-more.md)
 
